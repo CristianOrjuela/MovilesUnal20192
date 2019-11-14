@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Business Directory</string>
+    <!-- TextView -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="url">Web Site</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="service">Service</string>
+    <string name="category">Category</string>
+    <!-- Button -->
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="consultancy">Consultancy</string>
+    <string name="softwareDevelopment">Software Development</string>
+    <string name="customDevelopment">Custom Software Development</string>
+    <string name="viewCompanies">View Companies</string>
+    <string name="companySettings">Company Settings</string>
+    <string name="delete">Delete My Company</string>
+    <string name="update">Update Information</string>
+    <!-- Spinner -->
+
+</resources>

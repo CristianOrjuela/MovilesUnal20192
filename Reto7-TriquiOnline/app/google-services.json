@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286014507767",
+    "firebase_url": "https://mobiledevicesapp.firebaseio.com",
+    "project_id": "mobiledevicesapp",
+    "storage_bucket": "mobiledevicesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286014507767:android:1f192f84783b130078a1f2",
+        "android_client_info": {
+          "package_name": "com.android.tools.build"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286014507767-m13lu3la6ca6cj78u18uanp5e41ilvl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrHJzUV0nCquYSNTFhDJHDZjn9T8j2oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286014507767-m13lu3la6ca6cj78u18uanp5e41ilvl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
